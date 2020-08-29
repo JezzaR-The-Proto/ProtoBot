@@ -1,0 +1,2 @@
+# ProtoBot
+Epic discord bot
