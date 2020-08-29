@@ -1,0 +1,7 @@
+0.1b: Initial release, Admin commands, Info commands and some fun commands.
+0.2b: Added currency commands, added emote usage, improved error handling, renamed "Admin" to "Moderation" and added some commands.
+0.3b: Added starboard, disabling and enabling commands.
+0.4b: New help menu, minor improvements.
+0.5b: Added rep and protopoints leaderboard.
+1.0: Added BP.TF module with checking price of refined and checking qualities of a certain item.
+1.1: Added PBL, probably gonna rewrite it because its shit

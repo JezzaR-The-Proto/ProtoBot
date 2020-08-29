@@ -1,0 +1,7 @@
+https://discord.com/api/oauth2/authorize?client_id=723837243743273021&permissions=268724224&scope=bot
+Permissions:
+Manage Roles - Mute role
+Send Messages - All commands
+Manage Messages - Blacklist
+Embed Links - Help command, info commands
+External Emojis - Error messages, Currency commands, Support command.
